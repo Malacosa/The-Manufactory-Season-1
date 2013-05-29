@@ -1,0 +1,39 @@
+local function tunnelFirst (depth)
+  shell.run ("tunnel",depth)
+end
+
+local function tunnelReturn (depth)
+  -- Turn around, and return
+  turtle.turnLeft ()
+  turtle.turnLeft ()
+  depth = depth - 1
+  while (depth > 0) do
+    while (turtle.forward () == false) do
+      if (turtle.getFuelLevel () ~= "unlimited") then
+        if (turtle.getFuelLevel () == 0) then
+          turtle.select (1)
+          turtle.refuel (1)
+        end
+      end
+      turtle.dig ()
+      turtle.attack ()
+    end
+    depth = depth - 1
+  end
+end
+
+local depth = 0
+
+Arg = (...)
+if Arg ~= nil then
+  depth = tonumber (Arg)
+else
+  print ("Missing depth parameter")
+end
+
+if not (depth > 0) then
+  print ("Depth parameter must be greater than 0")
+else
+  tunnelFirst (depth)
+  tunnelReturn (depth)
+end

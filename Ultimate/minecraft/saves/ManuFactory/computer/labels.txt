@@ -1,0 +1,8 @@
+4 Miner1
+5 Miner2
+6 Miner3
+7 Miner4
+10 Miner5
+11 Miner6
+12 Miner7
+13 Miner8
