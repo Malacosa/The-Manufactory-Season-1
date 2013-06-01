@@ -5,7 +5,7 @@ Large Biomes
 Standard Terrain
 Clear Modifiers
 
-Standard Lighting
+Normal Lighting
 Normal Moon
 Normal Stars
 Normal Sun
