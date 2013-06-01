@@ -1,0 +1,21 @@
+Extreme Hills Biome
+Extreme Hills Edge Biome
+Extreme Jungle Biome
+Large Biomes
+Standard Terrain
+Clear Modifiers
+
+Standard Lighting
+Normal Moon
+Normal Stars
+Normal Sun
+Normal Weather
+Clear Modifiers
+
+Caves
+Dungeons
+Mineshafts
+Obelisks
+Ravines
+Villages
+Clear Modifiers
