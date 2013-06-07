@@ -1,1 +1,4 @@
-Exit:112:74:155:true:00FF00
+Exit:112:74:155:true:0000FF
+Nether Fortress:116:52:16:true:00FFFF
+Exit:147:83:-1:true:FFFF00
+Blaze Spawner:185:75:-50:true:FFFF00
