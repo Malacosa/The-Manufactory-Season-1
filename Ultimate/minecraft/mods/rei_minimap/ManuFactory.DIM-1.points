@@ -1,4 +1,6 @@
 Exit:112:74:155:true:0000FF
-Nether Fortress:116:52:16:true:00FFFF
-Exit:147:83:-1:true:FFFF00
+Fortress:116:52:16:true:00FFFF
+Fortress Entrance:147:83:-1:true:00FFFF
 Blaze Spawner:185:75:-50:true:FFFF00
+Bees:201:55:-62:true:0000FF
+Soulsand:-109:45:25:true:FF00FF

@@ -1,5 +1,5 @@
 Minimap: Enable
-Render Type: Cave
+Render Type: Surface
 Death Point: Enable
 Auto Update Check: Disable
 Map Shape: Round
