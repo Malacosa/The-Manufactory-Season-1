@@ -13,3 +13,16 @@ Lava:893:13:1242:false:FF8000
 Bees:892:61:1304:false:0000FF
 Lava:832:12:1263:false:FF8000
 Home:836:64:1245:true:00FF00
+Oil:563:63:1344:true:000000
+Oil:685:64:1393:true:000000
+Oil:494:66:864:true:000000
+Oil:291:63:189:true:000000
+Oil:192:64:-14:true:000000
+0,0:-1:63:0:true:FFFFFF
+Oil:-63:65:65:true:000000
+Oil:238:65:1119:true:000000
+Oil:271:65:961:true:000000
+Oil:191:65:846:true:000000
+Mine Entrance:-865:64:-244:true:00FF00
+Dungeon:-867:54:-127:true:FF0000
+Dungeon:-949:56:-202:true:FF0000
