@@ -2,21 +2,19 @@ Exit:844:33:1225:true:FF0000
 Bees:739:56:1209:false:0000FF
 Bees:619:57:1040:false:0000FF
 Bees:507:35:1033:false:0000FF
-Spider Tree:527:35:980:false:FF0000
 Bees:485:35:848:false:0000FF
-Tree:661:57:999:false:00FF00
-Tree:687:59:1034:false:00FF00
-Well:944:40:887:false:FF0000
-Well:993:40:917:false:FF0000
+Tree:661:57:999:true:00FF00
+Tree:687:59:1034:true:00FF00
 Hedge Maze:991:39:1050:false:FF0000
-Bees:876:58:1061:false:0000FF
 Bees:860:33:1213:false:0000FF
-Bees:899:38:882:false:0000FF
 Bees:828:61:1176:false:0000FF
 Bees:568:49:1040:false:0000FF
-Silverwood:466:40:1163:false:00FFFF
-Silverwood:497:38:1154:false:00FFFF
 Bees:452:29:1113:false:0000FF
 Mine Entrance:509:14:1135:true:00FF00
 Bees:583:33:1096:false:0000FF
 Bees:685:33:1169:false:0000FF
+Wizard Tower:1:49:1794:true:FF0000
+Fire Swamp:91:41:1902:true:FF0000
+Wizard Tower:12:36:2053:true:FF0000
+Naga:268:40:1491:true:FF0000
+Hedge Maze:266:34:1256:true:FF0000

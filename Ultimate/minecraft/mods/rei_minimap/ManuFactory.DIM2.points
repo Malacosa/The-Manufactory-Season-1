@@ -1,7 +1,21 @@
 Exit:-9:71:-47:true:00FF00
-Dungeon:-48:58:-49:true:FF0000
-Bees:7:53:-65:false:0000FF
-Bees:28:53:-97:false:0000FF
-Bees:-20:53:-79:false:0000FF
-Bees:-14:53:-112:false:0000FF
-0,0:-1:64:-1:true:00FF00
+0,0:-1:64:-1:false:FFFFFF
+512,0:512:65:0:false:FFFFFF
+-512,0:-513:66:0:false:FFFFFF
+Spider Chest:-469:65:-181:false:FF0000
+Library:-668:76:-235:true:FFFF00
+Spider Chest:-345:65:-378:false:FF0000
+-512,-512:-513:65:-513:false:FFFFFF
+0,-512:-1:110:-513:false:FFFFFF
+512,-512:511:79:-512:false:FFFFFF
+Library:597:108:-234:true:FFFF00
+Altar:555:87:6:false:FF0000
+Altar:501:94:583:false:FF0000
+Library:597:70:708:true:FFFF00
+512,512:511:71:512:false:FFFFFF
+0,512:0:115:512:false:FFFFFF
+Logic Matrix Programmer:10:92:567:true:FF0000
+Library:70:123:628:true:FFFF00
+-512,512:-512:65:511:false:FFFFFF
+Library:-476:106:258:true:FFFF00
+Bees:190:72:561:false:0000FF
