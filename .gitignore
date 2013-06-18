@@ -17,6 +17,8 @@ Ultimate/minecraft/GregTech.log
 
 Ultimate/minecraft/LiteLoader.txt
 
+Ultimate/minecraft/mods/rei_minimap/Block Manufacturing.DIM0.points
+
 Ultimate/minecraft/mods/rei_minimap/Season 1 Title.DIM0.points
 
 Ultimate/minecraft/mods/rei_minimap/Season 1 Title.DIM3.points
@@ -47,4 +49,8 @@ dir_to_ignore/
 
 Ultimate/minecraft/saves/NEI/local/Season 1 Title
 
+Ultimate/minecraft/saves/NEI/local/Block Manufacturing
+
 Ultimate/minecraft/saves/Season 1 Title
+
+Ultimate/minecraft/saves/Block Manufacturing
