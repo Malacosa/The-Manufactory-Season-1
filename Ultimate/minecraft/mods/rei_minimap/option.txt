@@ -29,7 +29,7 @@ Environment Color: Enable
 Omit Height Calc: Enable
 Hide Snow: Disable
 Show Chunk Grid: Enable
-Show Slime Chunk: Enable
+Show Slime Chunk: Disable
 Entities Radar: Disable
 Entity Player: Enable
 Entity Animal: Enable

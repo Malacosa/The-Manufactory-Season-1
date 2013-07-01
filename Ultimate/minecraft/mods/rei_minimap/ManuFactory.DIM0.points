@@ -10,16 +10,16 @@ Lava:800:13:1267:false:FF8000
 Lava:893:13:1242:false:FF8000
 Lava:832:12:1263:false:FF8000
 Home:836:64:1245:true:00FF00
-Oil:563:63:1344:true:000000
-Oil:685:64:1393:true:000000
-Oil:494:66:864:true:000000
-Oil:291:63:189:true:000000
-Oil:192:64:-14:true:000000
+Oil:563:63:1344:false:000000
+Oil:685:64:1393:false:000000
+Oil:494:66:864:false:000000
+Oil:291:63:189:false:000000
+Oil:192:64:-14:false:000000
 0,0:-1:63:0:true:FFFFFF
-Oil:-63:65:65:true:000000
-Oil:238:65:1119:true:000000
-Oil:271:65:961:true:000000
-Oil:191:65:846:true:000000
+Oil:-63:65:65:false:000000
+Oil:238:65:1119:false:000000
+Oil:271:65:961:false:000000
+Oil:191:65:846:false:000000
 Mine Entrance:-865:64:-244:true:00FF00
 Dungeon:-867:54:-127:false:FF0000
 Dungeon:-949:56:-202:false:FF0000
@@ -29,3 +29,19 @@ Dungeon:-1093:65:136:false:FF0000
 Spider Tree:-1361:65:19:false:FF0000
 Spider Tree:-1276:65:-83:false:FF0000
 Spider Tree:-1199:65:-140:false:FF0000
+Volcanoe:720:61:1502:false:FF8000
+Volcanoe:593:53:1162:false:FF8000
+Oil:768:69:1072:false:000000
+Dungeon:-1155:64:-247:false:FF0000
+Village:-1179:71:-652:false:00FF00
+Spider Tree:-1073:66:-682:false:FF0000
+Village:-1323:74:-363:false:00FF00
+Village:-1452:75:52:false:00FF00
+Bees:-422:54:164:false:0000FF
+Cave Spider:-933:40:-37:false:FF0000
+Oil:1090:73:1505:false:000000
+Oil:1359:69:1842:false:000000
+Oil:896:69:1740:false:000000
+Oil:785:71:1759:false:000000
+Lava:777:68:1745:false:FF8000
+Volcanoe:720:61:1502:false:FF8000
